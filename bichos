@@ -87,7 +87,7 @@
             alert("Datos copiados al portapapeles");
         }).catch(err => {
             console.error("Error al copiar los datos: ", err);
-        });
+        }); 
     }
 </script>
 
